@@ -1,5 +1,4 @@
-# port-scanner
-A Python tool to scan open ports on a network host
+
 # Port Scanner
 
 A Python-based TCP port scanner that identifies open ports on a target host.
