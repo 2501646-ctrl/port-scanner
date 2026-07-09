@@ -1,5 +1,8 @@
 
 # Port Scanner
+🔗 **Live Demo:** [Try it here](https://port-scanner-nxxtgkpjabzhk6nnzhr4e8.streamlit.app/)
+
+⚠️ **Note:** When using the live demo, scanning `127.0.0.1` will scan Streamlit's own server, not your personal device. For testing your own machine, run the tool locally.
 
 A Python-based TCP port scanner that identifies open ports on a target host.
 
